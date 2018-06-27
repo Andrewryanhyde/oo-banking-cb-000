@@ -26,8 +26,6 @@ class BankAccount
   end
 
   def close_account
-    self.balance.clear
-    self.name.clear
   end
 
 
